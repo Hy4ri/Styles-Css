@@ -1,0 +1,8 @@
+@-moz-document url-prefix("https://anime4up.rest/") {
+.header-navbar {
+    background-color: #131722;
+}
+.menu li a {
+        color: #ffffff;
+}
+}
