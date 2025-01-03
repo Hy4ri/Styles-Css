@@ -1,0 +1,11 @@
+@-moz-document url-prefix("https://s1.ebalqa.courses/ncentermoodle/") {
+.block_accessibility.block.card.mb-3,
+.block_readspeaker_embhl.block.card.mb-3{
+    display: none;
+}
+
+#region-main-settings-menu.has-blocks, #region-main.has-blocks {
+     display: inline-block;
+    width: calc(100%);
+}
+}
