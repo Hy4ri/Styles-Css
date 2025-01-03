@@ -1,0 +1,6 @@
+@-moz-document url-prefix("https://app.todoist.com/") {
+:host(.theme_dark), :root.theme_dark {
+    --product-library-background-base-primary: #121212 !important;
+    --product-library-background-base-secondary: #202020 !important;
+}
+}
