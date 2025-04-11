@@ -10,3 +10,9 @@
         grid-template-columns: 100%;
     }
 }
+
+@media (min-width: 768px) {
+    .xs\:\[\&\.fixed-sidebar\]\:grid-cols-\[minmax\(0\2c 756px\)_minmax\(0\2c 316px\)\].fixed-sidebar {
+        grid-template-columns: 100%;
+    }
+}
