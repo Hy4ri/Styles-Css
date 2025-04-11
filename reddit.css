@@ -19,6 +19,13 @@
     }
 }
 
+@media (min-width: 768px) {
+    .xs\:px-md {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+}
+
 /*Header*/
 
 header{
