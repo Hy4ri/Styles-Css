@@ -194,12 +194,9 @@
   }
 
   /* board suggestion page pin button */
-  .S9z.INd>.INd {
-    background: var(--color-background-button-primary-default) !important;
-  }
 
   .S9z.INd>.INd .Uvi {
-    color: var(--color-text-inverse);
+    color: var(--color-background-button-primary-default) !important;
   }
 
   /* explore page/ideas you might love */
