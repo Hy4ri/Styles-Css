@@ -1,0 +1,43 @@
+/* Bigger font in comments */
+#content-text.ytd-comment-view-model {
+  font-size: 2.1rem !important;
+}
+
+/* Fullscrean title clear */
+.ytp-big-mode .ytp-title-text {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9) !important;
+  background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Hide some elements */
+
+/* Download */
+.style-scope.ytd-download-button-renderer {
+  display: none !important;
+}
+
+/* Join */
+#sponsor-button {
+  display: none !important;
+}
+
+/* Thanks */
+[title="Show support with Super Thanks"] {
+  display: none !important;
+}
+
+/* Create */
+[aria-label="Create"] {
+  display: none !important;
+}
+
+/* Voice search */
+#voice-search-button {
+  display: none !important;
+}
+
+/* Fixes */
+
+[title="Clip"] {
+  margin-left: -15px !important;
+}
