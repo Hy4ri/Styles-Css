@@ -1,0 +1,15 @@
+.list-preview-wrap:nth-child(2) {
+    display: none !important;
+}
+
+.list-preview-wrap:nth-child(3) {
+    display: none !important;
+}
+
+.recent-threads {
+        display: none !important;
+}
+
+.recent-reviews {
+        display: none !important;
+}
